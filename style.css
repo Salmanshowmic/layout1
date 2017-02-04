@@ -1,0 +1,100 @@
+.wrapper{
+
+}
+
+.header{
+	border: 2px solid green;
+	display: inline-block;
+	width: 100%
+
+ 	
+}
+.slider{
+	border: 2px solid red;
+	overflow: hidden;
+	margin-top: 10px;
+
+}
+.about{
+	border: 2px solid blue;
+	margin-top: 10px;
+
+}
+.service{
+	border: 2px solid orange;
+	margin-top: 10px;
+}
+.footer{
+	border: 2px solid black;
+	overflow: hidden;
+	margin-top: 10px;
+}
+.header1{
+	border: 2px solid red;
+	display: inline-block;
+	width: 20%;
+	margin: 16px;
+
+
+}
+.header2{
+	border: 2px solid red;
+	display: inline-block;
+	width: 50%;
+	margin: 16px;	
+}
+.header3{
+	border: 2px solid red;
+	display: inline-block;
+	width: 20%;
+	margin: 16px;
+
+}
+.slider1{
+	border: 2px solid red;
+	width: 60%;
+	float: left;
+	height: 300px;
+
+}
+.slider2{
+	border: 2px solid red;
+	width: 30%;
+	float: right;
+	height: 300px;
+
+
+}
+.abt{
+	border: 2px solid blue;
+	width: 20%;
+	display: inline-block;
+	height: 250px;
+	margin-left: 25px;
+
+
+}
+
+
+
+.ser{
+	border: 2px solid red;
+	width: 30%;
+	display: inline-block;
+	height: 400px;
+	margin-left: 33px;
+
+}
+.footer1{
+	border: 2px solid black;
+	float: left;
+	height: 150px;
+	width: 40%
+
+}
+.footer2{
+	border: 2px solid black;
+	float: right;
+	height: 150px;
+	width: 40%
+}
